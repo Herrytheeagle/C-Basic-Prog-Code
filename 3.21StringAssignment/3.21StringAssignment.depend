@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1442313336 source:c:\users\heritage\desktop\web\3.21stringassignment\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+
